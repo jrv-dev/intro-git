@@ -1,6 +1,6 @@
 # Curso de Git y GitHub
 
-Este repositorio contiene los archivos del curso de Git y GitHub de CodeDex. Aquí encontrarás toda la documentacion de este curso, tales como ejercicios, notas etc.
+Este repositorio contiene los archivos del curso de Git y GitHub de Codédex. Aquí encontrarás toda la documentacion de este curso, tales como ejercicios, notas etc.
 
 ## Resumen de comandos vistos hasta el momento.
 
