@@ -16,3 +16,8 @@ Este repositorio contiene los archivos y practicas de los cursos de Git y GitHub
 * `git commit -m "contenido" `
 6. Para Empujar los cambios desde local a la rama principal del reposositorio remoto utiliza.
 * `git push -u origin main `
+
+
+
+---
+* [Ir hasta las notas ](/standards.md)
