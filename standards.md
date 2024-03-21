@@ -14,3 +14,11 @@ ah qui va el texto
 ah qui va el texto
 
 ---
+
+**Documentacion Utilizada:**
+
+[Git Branching Naming Convention: Buenas prácticas](https://phoenixnap.com/kb/git-branch-name-convention)
+
+[Convenciones de nomenclatura para las ramas de Git: hoja de trucos](https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534)
+
+[Commits Convencionales](https://www.conventionalcommits.org/es/v1.0.0/)
